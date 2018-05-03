@@ -7,14 +7,11 @@
     tools:context="com.informatika.daz.jogfit.MainActivity">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="112dp"
-        android:text="Halo World"
-        android:textSize="30sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:text="Date : 03-05-2018"
+        tools:layout_editor_absoluteX="38dp"
+        tools:layout_editor_absoluteY="300dp" />
+
 </android.support.constraint.ConstraintLayout>
