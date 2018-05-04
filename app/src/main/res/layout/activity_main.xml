@@ -8,10 +8,43 @@
 
     <TextView
         android:id="@+id/textView2"
+        android:layout_width="128dp"
+        android:layout_height="23dp"
+        android:text="Date : 03-05-2018"
+        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteY="340dp" />
+
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Date : 03-05-2018"
         tools:layout_editor_absoluteX="38dp"
         tools:layout_editor_absoluteY="300dp" />
+        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteY="377dp" />
+
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Distance : 0.76 m"
+        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteY="410dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calories Burn : 0.03"
+        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteY="437dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="363dp"
+        android:layout_height="43dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Brisk Walking"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="277dp" />
 
 </android.support.constraint.ConstraintLayout>
