@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://D:\_Doc\Pak Eko\RunningTracker-master\RunningTracker.iml" filepath="D:\_Doc\Pak Eko\RunningTracker-master\RunningTracker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RunningTracker-master.iml" filepath="$PROJECT_DIR$/RunningTracker-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jogfit.iml" filepath="$PROJECT_DIR$/jogfit.iml" />
     </modules>
   </component>
 </project>
