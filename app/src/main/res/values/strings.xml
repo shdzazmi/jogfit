@@ -20,7 +20,7 @@
     <string name="data_time">Durasi</string>
     <string name="data_length">Jarak</string>
 
-    <string name="preferences_path">app.psydd2.mdp.cw2_runningtracker.Preferences</string>
+    <string name="preferences_path">app.informatika.daz.jogfit.Preferences</string>
     <string name="preferences_max_zoom">maxZoom</string>
     <string name="preferences_max_zoom_run">maxZoomRun</string>
     <string name="preferences_no_points">noPoints</string>

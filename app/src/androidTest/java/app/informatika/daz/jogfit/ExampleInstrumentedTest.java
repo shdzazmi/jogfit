@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
 		// Context of the app under test.
 		Context appContext = InstrumentationRegistry.getTargetContext();
 		
-		assertEquals("app.psydd2.mdp.cw2_runningtracker", appContext.getPackageName());
+		assertEquals("app.informatika.daz.jogfit", appContext.getPackageName());
 	}
 }

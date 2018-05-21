@@ -3,7 +3,7 @@ package app.informatika.daz.jogfit.content_provider;
 import android.net.Uri;
 
 public class DatabaseContract {
-	public static final String AUTHORITY = "app.psydd2.mdp.cw2_runningtracker.content_provider.LocationProvider";
+	public static final String AUTHORITY = "app.informatika.daz.jogfit.content_provider.LocationProvider";
 	
 	public static final String CONTENT_TYPE_SINGLE = "vnd.android.cursor.item/LocationProvider.data.text";
 	public static final String CONTENT_TYPE_MULTIPLE = "vnd.android.cursor.dir/LocationProvider.data.text";
